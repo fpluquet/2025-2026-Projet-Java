@@ -73,7 +73,7 @@ Les éléments à rendre sont :
 - Les histoires actualisées en termes du contenu et estimation des points au format XLS ou Markdown (.md);
 - Le fichier exécutable `.jar` contenant la version du code que vous présenterez pendant la démonstration.
 
-Tous ces livrables devront être stockés dans la branche `master` du dépôt Git correspondant à votre groupe.
+Tous ces livrables devront être stockés dans la branche par défaut (`master` ou `main`) du dépôt Git correspondant à votre groupe.
 
 ## Contact
 
