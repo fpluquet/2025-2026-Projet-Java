@@ -73,7 +73,7 @@ Les éléments à rendre sont :
 - Les histoires actualisées en termes du contenu et estimation des points au format XLS ou Markdown (.md);
 - Le fichier exécutable `.jar` contenant la version du code que vous présenterez pendant la démonstration.
 
-Tous ces livrables devront être stockés dans la branche par défaut (`master` ou `main`) du dépôt Git correspondant à votre groupe.
+Tous ces livrables devront être stockés dans la branche `master` du dépôt Git correspondant à votre groupe.
 
 ## Contact
 
@@ -237,9 +237,12 @@ Le client pourra éclaircir certains points restés ambigus ou incomplets. Sur c
 
 ## La fin du projet
 
-La fin du projet arrive lors de l'échéance du dernier sprint. Tous les livrables devront être déposés sur votre dépôt pour maximum le **vendredi 29 mai 2026 à 18h00** à 18h00. Attention: ne passez pas votre temps sur le projet pendant vos examens. Je vous laisse du temps pour ceux qui en auraient besoin mais prenez en compte que vous devez aussi vous préparer pour vos examens. Il est donc préférable de finir le projet avant le début de la session d'examen.
+> **⚠️ Mise à jour du 19 mai 2026 — Extension de la date butoir**
+> La date limite de remise du projet a été repoussée du ~~vendredi 29 mai 2026~~ au **lundi 8 juin 2026 à 18h00**. Tous les livrables (code, vidéo, ...) sont désormais attendus pour cette nouvelle date.
 
-Vous défendez alors votre projet durant la session. Une vidéo de présentation de toutes les fonctionnalités présentes, des fonctionnalités non finalisées (par rapport à ce qui a été prévu) et de l'architecture du projet vous est demandée pour la même date (le vendredi 29 mai 2026 à 18h00). Cette vidéo doit être d'une durée de 10 minutes maximum (faites concis mais complet) et doit être déposée sur Youtube. Le lien sera mis dans un fichier nommé "video.txt" sur la racine du dépôt Git de votre groupe.
+La fin du projet arrive lors de l'échéance du dernier sprint. Tous les livrables devront être déposés sur votre dépôt pour maximum le **lundi 8 juin 2026 à 18h00**. Attention: ne passez pas votre temps sur le projet pendant vos examens. Je vous laisse du temps pour ceux qui en auraient besoin mais prenez en compte que vous devez aussi vous préparer pour vos examens. Il est donc préférable de finir le projet avant le début de la session d'examen.
+
+Vous défendez alors votre projet durant la session. Une vidéo de présentation de toutes les fonctionnalités présentes, des fonctionnalités non finalisées (par rapport à ce qui a été prévu) et de l'architecture du projet vous est demandée pour la même date (le lundi 8 juin 2026 à 18h00). Cette vidéo doit être d'une durée de 10 minutes maximum (faites concis mais complet) et doit être déposée sur Youtube. Le lien sera mis dans un fichier nommé "video.txt" sur la racine du dépôt Git de votre groupe.
 
 Lors de cette défense, vous passerez groupe par groupe. Vous présenterez en moins de 10 minutes les fonctionnalités de votre programme et les différents points techniques de qualité demandés dans l'énoncé (design patterns implémentés, architecture générales, ...). La présentation doit être préparée et professionnelle. La présentation peut être la même que celle de la vidéo (elle peut donc aussi être différente). Tout le monde ne doit pas forcément parler durant la présentation : soit un seul membre parle et une autre gère l'affichage sur son PC (montrer le code, ...), soit chaque membre présente une partie. Vous pouvez utiliser un support visuel pour la partie qualité (p.e. un PowerPoint). Vous pouvez aussi utiliser le code source de votre projet pour montrer les fonctionnalités implémentées et les points techniques de qualité demandés dans l'énoncé.
 
